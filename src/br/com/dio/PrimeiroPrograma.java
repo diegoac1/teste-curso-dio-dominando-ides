@@ -8,6 +8,7 @@ public class PrimeiroPrograma {
 
         System.out.println(gato);
         System.out.println(gato);
+        System.out.println(gato);
 
 
         /*int a = 5;
